@@ -28,7 +28,7 @@
 - Git & GitHub for version control
 
 ## 📫 How to reach me:
-- LinkedIn: [Ahmad Abdel-Raheem](www.linkedin.com/in/ahmad-abdelraheem)
+LinkedIn: [Ahmad Abdel-Raheem](www.linkedin.com/in/ahmad-abdelraheem)
 
 
 ## ⚡ Fun fact:
