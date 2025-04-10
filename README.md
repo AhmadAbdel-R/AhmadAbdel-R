@@ -31,8 +31,6 @@
 - Email: ahmad.abdelraheem.dev@gmail.com
 - LinkedIn: [Ahmad Abdel-Raheem](https://www.linkedin.com/in/ahmad-abdel-raheem)
 
-## 😄 Pronouns:
-He/Him
 
 ## ⚡ Fun fact:
 I’ve designed and built over a dozen custom PCBs — and I still get excited every time I hear the soldering iron click on.
