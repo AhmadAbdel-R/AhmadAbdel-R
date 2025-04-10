@@ -28,7 +28,6 @@
 - Git & GitHub for version control
 
 ## 📫 How to reach me:
-- Email: ahmad.abdelraheem.dev@gmail.com
 - LinkedIn: [Ahmad Abdel-Raheem](https://www.linkedin.com/in/ahmad-abdel-raheem)
 
 
