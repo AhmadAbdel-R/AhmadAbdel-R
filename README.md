@@ -24,7 +24,7 @@
 - **VS Code + PlatformIO** (my main dev environment)
 - **Fusion 360** for PCB design and 3D modeling
 - Cura for 3D printing
-- Arduino IDE, STM32CubeIDE, MPLAB X
+- Arduino IDE, STM32CubeIDE
 - Git & GitHub for version control
 
 ## 📫 How to reach me:
