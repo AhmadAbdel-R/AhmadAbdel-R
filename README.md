@@ -1,40 +1,41 @@
-# 👋 Hi, I’m @AhmadAbdel-R
+# Ahmad Abdel-Raheem
 
-🎓 I'm a 3rd year Electrical Engineering student at the University of Windsor with a passion for embedded systems, firmware development, and hardware design.
+4th year Electrical Engineering student at the University of Windsor.
 
-## 👀 I’m interested in:
-- Low-level firmware development (bare-metal & RTOS)
-- PCB design & prototyping
-- 3D printing custom enclosures and parts
-- Power electronics & embedded hardware
-- Microcontrollers (ESP32, ATtiny, STM32, SAMD21, etc.)
+I’m mainly interested in embedded systems, firmware, hardware design, and building things that work outside of simulation.
 
-## 🌱 I’m currently learning:
-- Advanced C/C++ for embedded systems
-- Real-Time Operating Systems (RTOS)
-- RF communication & low-level UART/SPI/I2C protocols
-- Python scripting for automation
+Right now I’m working on a capstone project focused on an autonomous drone system for crop stress and anomaly mapping, combining a custom ESP32-S3 flight controller with onboard vision for agricultural field scanning. :contentReference[oaicite:0]{index=0}
 
-## 💞️ I’m looking to collaborate on:
-- Open-source embedded projects
-- Custom PCB and hardware builds
-- Firmware for IoT devices and robotics
+## Interests
+- Embedded firmware
+- PCB design and prototyping
+- Microcontrollers and low-level programming
+- Power electronics
+- IoT and hardware-focused projects
+- 3D printed parts and enclosures
 
-## 💻 Tools & Software I use:
-- **VS Code + PlatformIO** (my main dev environment)
-- **Fusion 360** for PCB design and 3D modeling
-- ORCA Slicer for 3D printing
-- Arduino IDE, STM32CubeIDE
-- Git & GitHub for version control
+## Currently learning
+- Advanced embedded C/C++
+- RTOS
+- Python for scripting and automation
 
-## 📫 How to reach me:
-LinkedIn: [Ahmad Abdel-Raheem](www.linkedin.com/in/ahmad-abdelraheem)
+## Open to collaborating on
+- Embedded and firmware projects
+- PCB and hardware builds
+- IoT devices
+- Robotics-related work
 
+## Tools
+- VS Code + PlatformIO
+- Fusion 360
+- ORCA Slicer
+- Arduino IDE
+- STM32CubeIDE
+- Git and GitHub
 
-## ⚡ Fun fact:
-I’ve designed and built over a dozen custom PCBs — and I still get excited every time I hear the soldering iron click on.
+## Contact
+[LinkedIn](https://www.linkedin.com/in/ahmad-abdelraheem)
 
 <!---
-AhmadAbdel-R/AhmadAbdel-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AhmadAbdel-R/AhmadAbdel-R is a special repository because its `README.md` appears on your GitHub profile.
 --->
