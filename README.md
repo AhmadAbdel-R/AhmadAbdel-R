@@ -1,41 +1,28 @@
 # Ahmad Abdel-Raheem
 
-4th year Electrical Engineering student at the University of Windsor.
+4th-year Electrical Engineering student at the University of Windsor interested in embedded systems, firmware, and hardware design.
 
-I’m mainly interested in embedded systems, firmware, hardware design, and building things that work outside of simulation.
+Most of what I like working on sits at the hardware-software boundary: custom PCBs, microcontroller firmware, board bring-up, debugging, and making embedded systems work outside of simulation.
 
-Right now I’m working on a capstone project focused on an autonomous drone system for crop stress and anomaly mapping, combining a custom ESP32-S3 flight controller with onboard vision for agricultural field scanning. :contentReference[oaicite:0]{index=0}
+Right now I’m working on a capstone project focused on an autonomous drone for crop stress and anomaly mapping, built around a custom ESP32-S3 flight controller with onboard vision and wireless communication.
 
 ## Interests
 - Embedded firmware
 - PCB design and prototyping
-- Microcontrollers and low-level programming
-- Power electronics
-- IoT and hardware-focused projects
-- 3D printed parts and enclosures
-
-## Currently learning
-- Advanced embedded C/C++
-- RTOS
-- Python for scripting and automation
-
-## Open to collaborating on
-- Embedded and firmware projects
-- PCB and hardware builds
-- IoT devices
-- Robotics-related work
+- Microcontrollers and low-level interfacing
+- Hardware debugging and system integration
+- Wireless embedded systems
+- 3D-printed enclosures and mechanical integration
 
 ## Tools
-- VS Code + PlatformIO
+- ESP-IDF
+- PlatformIO
+- KiCad
 - Fusion 360
-- ORCA Slicer
-- Arduino IDE
-- STM32CubeIDE
-- Git and GitHub
+- Git/GitHub
+- MATLAB / Simulink
+- Arduino Framework
+- VS Code
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/ahmad-abdelraheem)
-
-<!---
-AhmadAbdel-R/AhmadAbdel-R is a special repository because its `README.md` appears on your GitHub profile.
---->
